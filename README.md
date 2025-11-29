@@ -59,7 +59,7 @@ subplot(3,2,5);
 ```
 
 # OUTPUT:
-<img width="1920" height="1200" alt="Screenshot 2025-10-08 093220" src="https://github.com/user-attachments/assets/28e0aa78-7d3d-45d4-aa2a-3141b2441dda" />
+<img width="546" height="866" alt="image" src="https://github.com/user-attachments/assets/4794560d-9189-47e8-aa6c-ec4937731067" />
  
 ![WhatsApp Image 2025-11-26 at 12 51 12_af2e3c3d](https://github.com/user-attachments/assets/4f3cf7cf-e619-496e-b923-b506c4dc3022)
 
